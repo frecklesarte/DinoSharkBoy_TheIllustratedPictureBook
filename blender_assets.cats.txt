@@ -1,0 +1,18 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+478e4327-0f0c-4b0e-b3f9-bd326eb07bf1:Brushes:Brushes
+f62e67a3-06a9-4781-a049-7cce00d8210c:Brushes/Grease Pencil Draw:Brushes-Grease Pencil Draw
+b5a8ad1c-a0c1-4128-bd11-ad0b6f14ff95:Brushes/Grease Pencil Draw/Draw:Brushes-Grease Pencil Draw-Draw
+a587e29d-0b17-498a-93f8-ee885b588ae4:EnvironmentKits:EnvironmentKits
+4dff345b-245e-4fd3-8f1f-df40c6e97f9d:EnvironmentKits/DirtKit:EnvironmentKits-DirtKit
+2111f68a-50c9-420b-a268-ef909fd2ab71:EnvironmentKits/GrassKit:EnvironmentKits-GrassKit
+eb66d46e-1e4c-4e61-805b-67646ab5e9d9:EnvironmentKits/RockyCliffKit:EnvironmentKits-RockyCliffKit
+68182055-7ffe-40b5-b261-aca817b71eba:EnvironmentKits/SandyRaceTrack:EnvironmentKits-SandyRaceTrack
+88e20e5f-ebbe-41d5-807a-b6364786ca87:EnvironmentKits/SandyRaceTrack/Revision001:EnvironmentKits-SandyRaceTrack-Revision001
+bc6548ea-d30b-423a-b7d6-783f10c5a7d9:EnvironmentKits/SandyRaceTrack/Revision002:EnvironmentKits-SandyRaceTrack-Revision002
