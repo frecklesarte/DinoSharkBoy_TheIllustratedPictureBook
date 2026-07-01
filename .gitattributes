@@ -1,0 +1,4 @@
+*.blend filter=lfs diff=lfs merge=lfs -text
+Revision_002 filter=lfs diff=lfs merge=lfs -text
+AssetLibrary filter=lfs diff=lfs merge=lfs -text
+DinoSharkBoy_TheIllustratedPictureBook filter=lfs diff=lfs merge=lfs -text
