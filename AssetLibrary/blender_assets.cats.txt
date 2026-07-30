@@ -6,6 +6,8 @@
 
 VERSION 1
 
+9b916f8e-7f92-4248-b893-a19d1745aa92:Brushes:Brushes
+46f3ddb1-9257-406a-97a4-4e1398f6a378:Characters:Characters
 70a2504c-ae66-4249-b92c-c635d67a0241:Environments:Environments
 9a3ae636-2a4e-4d0b-9152-3a5f86fe3df2:Environments/Kits:Environments-Kits
 a1d58c6a-8038-4375-b3da-81ceb6340338:Environments/Kits/Sandy Race Track:Environments-Kits-Sandy Race Track

@@ -2,4 +2,11 @@
 Revision_002 filter=lfs diff=lfs merge=lfs -text
 AssetLibrary filter=lfs diff=lfs merge=lfs -text
 DinoSharkBoy_TheIllustratedPictureBook filter=lfs diff=lfs merge=lfs -text
-DinoSharkBoyIA/DinoSharkBoyIA/pages/Page 19 - 20.kra filter=lfs diff=lfs merge=lfs -text
+"DinoSharkBoyIA/DinoSharkBoyIA/pages/Page 19 - 20.kra" filter=lfs diff=lfs merge=lfs -text
+* filter=lfs diff=lfs merge=lfs -text
+.gitattributes -filter=lfs -diff=lfs -merge=lfs -text
+/AssetLibrary/Environment/Ground/Grass_Blade_Clumps.exr filter=lfs diff=lfs merge=lfs -text
+/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain[[:space:]]Displacement.001.1001.exr filter=lfs diff=lfs merge=lfs -text
+/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain[[:space:]]Normal.001.1001.exr filter=lfs diff=lfs merge=lfs -text
+/AssetLibrary/Environment/SandyRaceTrack/ModularRaceTrack_Kit.blend1 filter=lfs diff=lfs merge=lfs -text
+/AssetLibrary/Environment/SandyRaceTrack/Revision_002.blend1 filter=lfs diff=lfs merge=lfs -text
