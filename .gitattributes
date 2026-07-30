@@ -1,8 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6e5fe4cfe439c12e47a2789f17829112c8867334b230aa7a9654bd79f9945fd
-size 443
 /AssetLibrary/Environment/Ground/Grass_Blade_Clumps.exr filter=lfs diff=lfs merge=lfs -text
-/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain[[:space:]]Displacement.001.1001.exr filter=lfs diff=lfs merge=lfs -text
-/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain[[:space:]]Normal.001.1001.exr filter=lfs diff=lfs merge=lfs -text
+"/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain Displacement.001.1001.exr" filter=lfs diff=lfs merge=lfs -text
+"/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain Normal.001.1001.exr" filter=lfs diff=lfs merge=lfs -text
 /AssetLibrary/Environment/SandyRaceTrack/ModularRaceTrack_Kit.blend1 filter=lfs diff=lfs merge=lfs -text
 /AssetLibrary/Environment/SandyRaceTrack/Revision_002.blend1 filter=lfs diff=lfs merge=lfs -text
