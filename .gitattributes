@@ -3,3 +3,5 @@
 "/AssetLibrary/Environment/SandyRaceTrack/Baked_Sandy_Race_Track_Kit_Textures/Terrain Normal.001.1001.exr" filter=lfs diff=lfs merge=lfs -text
 /AssetLibrary/Environment/SandyRaceTrack/ModularRaceTrack_Kit.blend1 filter=lfs diff=lfs merge=lfs -text
 /AssetLibrary/Environment/SandyRaceTrack/Revision_002.blend1 filter=lfs diff=lfs merge=lfs -text
+DinoSharkBoyIA/DinoSharkBoyIA/pages/Cover.kra filter=lfs diff=lfs merge=lfs -text
+DinoSharkBoyIA/DinoSharkBoyIA/pages/*.kra filter=lfs diff=lfs merge=lfs -text
